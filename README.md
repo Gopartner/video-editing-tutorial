@@ -3,6 +3,12 @@ A hands-on guide to video editing, workflow, and creative storytelling.
 
 ---
 
+## 🌐 Language
+- 🇺🇸 English (current)
+- 🇮🇩 [Bahasa Indonesia](README.id.md)
+
+---
+
 ## 📌 About
 This repository documents my journey in learning video editing — from fundamental concepts to practical workflows used in real-world projects.
 
